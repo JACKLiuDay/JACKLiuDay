@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JACKLiuDay
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently learning SLAM
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on SLAM with quadruped robot
 - 📫 How to reach me 308756172@qq.com
 
 <!---
